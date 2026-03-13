@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmw-website/static/css/main.4cc36548.css",
+    "main.js": "/bmw-website/static/js/main.316e6219.js",
+    "index.html": "/bmw-website/index.html",
+    "main.4cc36548.css.map": "/bmw-website/static/css/main.4cc36548.css.map",
+    "main.316e6219.js.map": "/bmw-website/static/js/main.316e6219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cc36548.css",
+    "static/js/main.316e6219.js"
+  ]
+}
